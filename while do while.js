@@ -83,16 +83,3 @@ do {
     `)
 } while(opcionSeleccionada != '0')
 
-
-
-
-
-
-
-
-
-
-
-
-
-¡MUCHA SUERTE! RECUERDEN "DIVIDE Y VENCERÁS"
